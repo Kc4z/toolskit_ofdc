@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "toolskit-ofdc"
-version = "0.1.2"
+version = "0.1.3"
 description = "kit de ferramentas"
 authors = ["Isaac da Silva Farias <zackfarias.Pc@gmail.com>"]
 readme = "README.md"
